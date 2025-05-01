@@ -26,3 +26,17 @@ An AI-driven task scheduling app built with AWS PartyRock. The goal? Simplify yo
 
 ## 🧠 Prompt Template
 "Develop a 'Daily Task Scheduler Application' aimed at enhancing productivity and organization. This app should be able to handle multiple tasks, and prompt the user to assign a time associated with the task. The app will then break down the task in the most logical and ethical ways, providing pleasing feedback and task execution."
+
+
+## 📌 Take it Further with Next Steps
+- Add sharing functionality
+- Export schedule to .PDF/.CSV
+- Link with calendar API (iCal, Google Calendar)
+
+## ✨ Author
+Quintez Pearson – [LinkedIn](https://www.linkedin.com/in/quintezpearson/) | [X (Twitter)](https://twitter.com/WyytXTech)
+
+---
+
+_“Productivity meets precision — let AI help you take control of your time.”_
+
