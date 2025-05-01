@@ -36,6 +36,8 @@ An AI-driven task scheduling app built with AWS PartyRock. The goal? Simplify yo
 ![Screenshot 2025-04-30 194509](https://github.com/user-attachments/assets/8e375b37-0c4a-4347-9a65-e8edb5393472)
 ![Screenshot 2025-04-30 195226](https://github.com/user-attachments/assets/ca2ff376-e82e-4699-96ee-30895bc0013a)
 
+https://partyrock.aws/u/Quintez1/nwDBdBCnA/TaskFlow
+
 
 ## 📌 Take it Further with Next Steps
 - Add sharing functionality
